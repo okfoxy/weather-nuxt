@@ -1,6 +1,10 @@
 # weather-nuxt
 
-> サンプルプロジェクト
+> made by Nuxt.js
+> show weather apps
+
+![readme-pic1.jpg](https://github.com/okfoxy/weather-nuxt/blob/master/assets/readmepic/readme-pic1.jpg?raw=true "readme-pic1.jpg")<br>
+![readme-pic2.jpg](https://github.com/okfoxy/weather-nuxt/blob/master/assets/readmepic/readme-pic2.jpg?raw=true "readme-pic2.jpg")<br>
 
 ## Build Setup
 
